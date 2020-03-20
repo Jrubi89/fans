@@ -1,0 +1,16 @@
+body {background-color:black;text-align: center;}
+#h1 {text-align: center;color: goldenrod;font-family: 'Times New Roman'}
+#StyleImage {
+    border: goldenrod;
+    border-width: 0.2ch;
+    border-style: outset}
+    
+div p {text-align: center;}
+#h2 {color: goldenrod;font-size:20px}
+.styledFont {color: whitesmoke;
+font-family: 'Times New Roman'}
+.table {  width: 100%;
+  height: 50px;}
+th {
+  height: 50px;
+}
